@@ -1,1 +1,4 @@
 # Pilhas-Merge
+Este programa em C++ solicita ao usuário a entrada de 30 números inteiros em ordem crescente, separando-os em pares e ímpares. Esses números são armazenados em duas estruturas diferentes de pilha: uma implementada com lista encadeada (PilhaLista) e outra com vetor estático (PilhaVetor). Após o preenchimento das pilhas, o programa desempilha os números e os exibe em ordem decrescente, conforme foram inseridos (último a entrar, primeiro a sair – LIFO).
+
+O objetivo principal deste exercício é demonstrar o uso de estruturas de dados dinâmicas e estáticas, reforçando os conceitos de pilhas, alocação dinâmica de memória e manipulação de ponteiros. Além disso, o código garante a integridade da entrada exigindo que os números sejam digitados em ordem crescente, o que simula uma validação de dados eficaz durante o input.
